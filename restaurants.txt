@@ -1,0 +1,16 @@
+green park	paneerkadai	50
+green park	biryani	75
+shiv sagar	paneerkadhai	40
+shiv sagar	palakpaneer	45
+rajwada	pizza	20
+rajwada	rice	30
+rajwada	palakpaneer	30
+cafe cream	coffee	15
+green park	coffee	10
+cafe cream	pizza	30
+shiv sagar	pizza	20
+shiv sagar	biryani	20
+westin	coffee	10
+westin	paneerkadai	50
+shiv sagar	paneerkadai	40
+shiv sagar	paneerkadhai	40
